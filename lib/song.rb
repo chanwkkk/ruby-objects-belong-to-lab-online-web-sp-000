@@ -5,4 +5,5 @@ class Song
   @title=title
   @artist.name=artist
 end
+
 end
